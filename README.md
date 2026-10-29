@@ -183,7 +183,7 @@ VirtualBox 7.2.22	  -->  [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 Kali Linux 2026.3  --> 	[Kali](https://www.kali.org/get-kali/)
 
-WINRAR  -->  [Winrar]()
+WINRAR  -->  [Winrar](https://www.win-rar.com/download.html?&L=0)
 
 
 # Author
