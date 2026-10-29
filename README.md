@@ -95,10 +95,12 @@ Network: NatNetwork
 
 Adapter Type: Intel PRO/1000 MT Desktop
 
-RAM: 2048–4096 MB (recommended)
+RAM: 2048 MB (recommended)
 
 A shared folder can be added to transfer tools and scripts between the host and Kali.
 <img width="2736" height="1824" alt="kali nat config" src="https://github.com/user-attachments/assets/bd2921d8-5155-411d-8929-f061e050eba4" />
+
+<img width="2736" height="1824" alt="nmap" src="https://github.com/user-attachments/assets/a0316469-08ff-41fc-88cc-c4c23845194d" />
 
 
 # Step 4 — Configure Static IP Addressing
