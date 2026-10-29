@@ -150,3 +150,45 @@ Then restart the connection or reboot.
 > Always confirm the exact connection name with nmcli connection show before running the command.
 
 
+# Problem 2 — Hardware Virtualization Disabled (VT‑x / AMD‑V)
+
+Symptom: The VM fails to start with an error about hardware virtualization.
+
+# Solution: Reboot the host, enter BIOS/UEFI, enable Intel VT‑x (or AMD‑V), save, and restart.
+
+
+# What I Learned
+----------------------------------------------------------------------------
+
+* NAT vs NAT Network: A NAT Network enables VM‑to‑VM communication while still providing outbound internet access—essential for a multi‑machine lab.
+
+* Static IP planning: A consistent addressing scheme (10.0.0.0/24) simplifies documentation and repeatable exercises.
+
+* Snapshot discipline: Always snapshot before installing tools or running exploits, so you can return to a clean baseline.
+
+* Documentation: Recording commands, screenshots, and problems/solutions is as important as the technical setup itself.
+
+
+# Security & Ethical Use
+-----------------------------------------------------------------------------
+⚠️ This laboratory is for education and authorized security testing only.
+All exercises must be performed on systems you own or have explicit written permission to test. Never use these tools or techniques against unauthorized systems.
+
+
+# Tools & Resources
+
+
+Tool	and Link
+VirtualBox 7.2.22	  -->  [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+Kali Linux 2026.3  --> 	[Kali](https://www.kali.org/get-kali/)
+
+WINRAR  -->  [Winrar]()
+
+
+# Author
+Nicholas Gyemfi 
+
+Cybersecurity Entusiast
+
+LinkedIn:
