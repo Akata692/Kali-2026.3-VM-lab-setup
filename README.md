@@ -191,4 +191,4 @@ Nicholas Gyemfi
 
 Cybersecurity Entusiast
 
-LinkedIn: [](https://www.linkedin.com/in/nic-gyim/)
+LinkedIn: [https://www.linkedin.com/in/nic-gyim/](https://www.linkedin.com/in/nic-gyim/)
